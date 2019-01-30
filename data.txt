@@ -1,0 +1,3 @@
+Name: Rémy
+Age: 27
+Favorite Color: Blue
